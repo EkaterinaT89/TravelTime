@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="trevel_time_name">Пора в путешествие!</string>
+    <string name="flights_title">Авиабилеты</string>
+    <string name="one_flight_details_title">Детализация полета</string>
+    <string name="avia_tickets">Авиабилеты</string>
+    <string name="details_for_ticket">Детализация полета</string>
+    <string name="departure_picture_description">Отправление</string>
+    <string name="arrival_picture_description">Прибытие</string>
+    <string name="like_button_description">Кнопка лайк</string>
+    <string name="logo_description">Логотип</string>
+    <string name="server_error_pic_descriptoin">Картинка нет интернета</string>
+    <string name="try_again_server_error">ОБНОВИТЬ</string>
+</resources>
