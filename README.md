@@ -10,3 +10,5 @@ OkHttp
 Recycleview
 Binding
 Repository/ViewModel
+
+Поддержка тёмной темы. 
