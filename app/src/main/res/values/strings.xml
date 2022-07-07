@@ -13,4 +13,7 @@
     <string name="unknown_exception">Неизвестная ошибка</string>
     <string name="server_error_pic_descriptoin">Картинка нет интернета</string>
     <string name="try_again_server_error">ОБНОВИТЬ</string>
+    <string name="chronodays">Дней в путешествии - %1$s</string>
+    <string name="departure_title">Отправление</string>
+    <string name="arrival_title">Прибытие</string>
 </resources>

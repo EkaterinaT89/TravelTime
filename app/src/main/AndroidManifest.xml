@@ -15,9 +15,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrevelTime"
         android:usesCleartextTraffic="${usesCleartextTraffic}"
+        android:name=".flights.presentation.ui.TravelTimeApplication"
         tools:targetApi="31">
         <activity
-            android:name=".activity.SplashScreen"
+            android:name=".flights.presentation.ui.SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,7 +27,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.MainActivity"
+            android:name=".flights.presentation.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

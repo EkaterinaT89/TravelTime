@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/splash_screen_gradient"
     android:padding="@dimen/padding"
-    tools:context=".activity.SplashScreen">
+    tools:context=".flights.presentation.ui.SplashScreen">
 
     <TextView
         android:id="@+id/trevel_time_name"

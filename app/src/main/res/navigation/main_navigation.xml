@@ -7,8 +7,8 @@
 
     <fragment
         android:id="@+id/listFlightsFragment"
-        android:name="ru.wb.treveltime.activity.fragment.ListFlightsFragment"
-        android:label="@string/avia_tickets">
+        android:name="ru.wb.treveltime.flights.presentation.ui.fragment.ListFlightsFragment"
+        android:label="Билеты">
         <action
             android:id="@+id/action_listFlightsFragment_to_flightFragment"
             app:destination="@id/flightFragment"
@@ -16,6 +16,6 @@
     </fragment>
     <fragment
         android:id="@+id/flightFragment"
-        android:name="ru.wb.treveltime.activity.fragment.FlightFragment"
-        android:label="@string/details_for_ticket" />
+        android:name="ru.wb.treveltime.flights.presentation.ui.fragment.FlightDetailsFragment"
+        android:label="Детали перелета" />
 </navigation>
