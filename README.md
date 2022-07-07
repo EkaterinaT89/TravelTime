@@ -16,7 +16,7 @@ Lifecycle, Material Design, Navigation, Coroutines, View
 Поддержка темной темы. 
 
 Заставка: 
-![заставка](https://user-images.githubusercontent.com/88279403/177783871-9a0cd057-4f4b-4ae5-82a8-befa9954b421.png width=50% height=50%)
+<img src="https://user-images.githubusercontent.com/88279403/177783871-9a0cd057-4f4b-4ae5-82a8-befa9954b421.png" width=50% height=50%>
 
 Иконка в списке приложений:
 ![иконка](https://user-images.githubusercontent.com/88279403/177783878-ed7bfc95-4a91-4da1-a162-b701c2c75001.png)
