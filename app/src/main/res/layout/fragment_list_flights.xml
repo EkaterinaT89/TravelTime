@@ -5,21 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/flights_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center|top"
-        android:layout_marginTop="15dp"
-        android:text="@string/flights_title"
-        android:textColor="?attr/textFillColor"
-        android:textSize="30sp" />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/list_flights"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="5dp"
         android:layoutAnimation="@anim/list_flights_animation"
         android:orientation="vertical"
         android:scrollbars="vertical"
